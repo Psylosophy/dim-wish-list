@@ -165,7 +165,7 @@ dimwishlist:item=3517716296&perks=3768438372,16392701,201365942,47981717+
 dimwishlist:item=1572896086&perks=839105230,106909392,1583705720,1171887445
 
 // Pointed Inquiry (god-pve,mnk)
-//notes: MW - Range | Mod - Targeting Adjuster tags:god-pve,mnk
+//notes: MW - Range , Mod - Targeting Adjuster tags:god-pve,mnk
 dimwishlist:item=297296830&perks=4090651448,3230963543,1354429876,169755979
 dimwishlist:item=297296830&perks=4090651448,3230963543,1354429876,2000295559
 dimwishlist:item=297296830&perks=4090651448,3230963543,3096702027,169755979
@@ -204,6 +204,6 @@ dimwishlist:item=297296830&perks=1467527085,1885400500,3920370755,169755979
 dimwishlist:item=297296830&perks=1467527085,1885400500,3920370755,2000295559
 
 // Red Herring (god-pve,mnk)
-//notes: MW - Blast Radius | Mod - Boss Spec for a 7% increase in damage to bosses tags:god-pve,mnk
+//notes: MW - Blast Radius , Mod - Boss Spec for a 7% increase in damage to bosses tags:god-pve,mnk
 dimwishlist:item=3175851496&perks=1478423395,3796465595,3977735242,3927722942
 dimwishlist:item=3175851496&perks=1441682018,3796465595,3977735242,3927722942
